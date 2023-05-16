@@ -1,0 +1,77 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background:#ade3f6;
+        border-radius: 15px ;
+
+}
+h1{
+    text-align: center;
+    color: #f7ff03;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label{
+    color: #f200ff;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Uname1{
+    width: 295px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 15px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#Pass1{
+    width: 270px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(255, 0, 0);
+
+
+}
+a{
+    float: right;
+    background-color: grey;
+}
+.background-img {  
+    min-height: 720px;  
+    background-size: cover;      
+    background-image: url(  
+"https://cdn.theculturetrip.com/wp-content/uploads/2023/04/stocksy_txp8f31cbadfme300_medium_4403617-1.jpg");  
+background-size: cover;
+}
